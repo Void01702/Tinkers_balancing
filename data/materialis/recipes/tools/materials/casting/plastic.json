@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": [
+    {
+      "name": "industrialforegoing:latex",
+      "amount": 900
+    },
+    {
+      "name": "thermal:latex",
+      "amount": 900
+    }
+  ],
+  "temperature": 800,
+  "output": "materialis:plastic"
+}

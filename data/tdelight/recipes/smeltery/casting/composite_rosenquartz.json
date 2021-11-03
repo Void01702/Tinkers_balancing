@@ -1,0 +1,24 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ingots/rosenquartz",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "item": "create:polished_rose_quartz"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "tconstruct:molten_rose_gold",
+    "amount": 144
+  },
+  "result": {
+    "tag": "forge:ingots/rosenquartz"
+  },
+  "cooling_time": 56
+}

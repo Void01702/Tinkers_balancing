@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "item": "minecraft:player_head"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:blood",
+    "amount": 500
+  },
+  "temperature": 36,
+  "time": 60
+}

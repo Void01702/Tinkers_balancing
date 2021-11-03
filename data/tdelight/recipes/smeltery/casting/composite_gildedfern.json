@@ -1,0 +1,24 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ingots/gildedfern",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "item": "minecraft:gold_ingot"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "tconstruct:molten_emerald",
+    "amount": 144
+  },
+  "result": {
+    "tag": "forge:ingots/gildedfern"
+  },
+  "cooling_time": 56
+}
