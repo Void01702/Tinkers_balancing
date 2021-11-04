@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "modid": "industrialforegoing",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "name": "industrialforegoing:latex",
+    "amount": 900
+  },
+  "result": {
+    "item": "industrialforegoing:plastic"
+
+  },
+  "cooling_time": 65
+}

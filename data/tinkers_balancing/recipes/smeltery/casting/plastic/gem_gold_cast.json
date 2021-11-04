@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "modid": "thermal",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/gem"
+  },
+  "fluid": {
+    "name": "thermal:latex",
+    "amount": 300
+  },
+  "result": {
+    "item": "thermal:rubber"
+
+  },
+  "cooling_time": 65
+}

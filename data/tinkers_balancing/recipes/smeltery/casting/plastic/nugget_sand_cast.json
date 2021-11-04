@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "modid": "industrialforegoing",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/nugget"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "name": "industrialforegoing:latex",
+    "amount": 100
+  },
+  "result": {
+    "item": "industrialforegoing:tinydryrubber"
+
+  },
+  "cooling_time": 22
+}
