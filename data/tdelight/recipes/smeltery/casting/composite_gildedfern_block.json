@@ -1,14 +1,5 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:storage_blocks/gildedfern",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
+  "type": "tconstruct:casting_basin",
   "cast": {
     "item": "minecraft:gold_block"
   },
@@ -17,8 +8,6 @@
     "tag": "tconstruct:molten_emerald",
     "amount": 1296
   },
-  "result": {
-    "tag": "forge:storage_blocks/gildedfern"
-  },
+  "result": "tdelight:gildedfern_block",
   "cooling_time": 120
 }
