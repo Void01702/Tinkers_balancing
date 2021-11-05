@@ -2,11 +2,8 @@
   "type": "tconstruct:casting_table",
   "conditions": [
     {
-      "value": {
-        "tag": "forge:ingots/rosenquartz",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      "modid": "tdelight",
+      "type": "forge:mod_loaded"
     }
   ],
   "cast": {

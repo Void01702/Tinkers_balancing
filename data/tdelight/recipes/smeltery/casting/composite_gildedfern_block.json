@@ -1,5 +1,11 @@
 {
   "type": "tconstruct:casting_basin",
+  "conditions": [
+    {
+      "modid": "tdelight",
+      "type": "forge:mod_loaded"
+    }
+  ],
   "cast": {
     "item": "minecraft:gold_block"
   },
