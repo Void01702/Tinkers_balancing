@@ -21,7 +21,7 @@
   "byproducts": [
     {
       "fluid": "materialis:molten_regalium",
-      "amount": 48
+      "amount": 16
     }
   ]
 }
