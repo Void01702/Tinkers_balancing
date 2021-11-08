@@ -1,0 +1,30 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:true"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "item": "undergarden:sediment"
+          },
+          {
+            "item": "undergarden:goo_ball"
+          },
+          {
+            "item": "undergarden:depthrock_pebble"
+          }
+        ],
+        "result": {
+          "item": "tconstruct:grout",
+          "count": 2
+        }
+      }
+    }
+  ]
+}
