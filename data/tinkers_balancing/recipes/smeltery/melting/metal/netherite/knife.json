@@ -1,0 +1,24 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "farmersdelight",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": {
+    "item": "farmersdelight:netherite_knife"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_netherite",
+    "amount": 144
+  },
+  "temperature": 1250,
+  "time": 80,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_diamond",
+      "amount": 144
+    }
+  ]
+}
