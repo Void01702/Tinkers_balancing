@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "modid": "storagedrawers",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "storagedrawers:diamond_storage_upgrade"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_diamond",
+    "amount": 288
+  },
+  "temperature": 1450,
+  "time": 120
+}

@@ -2,18 +2,18 @@
   "type": "tconstruct:melting",
   "conditions": [
     {
-      "modid": "aquaculture",
+      "modid": "create",
       "type": "forge:mod_loaded"
     }
   ],
   "ingredient": [
     {
-      "item": "aquaculture:tackle_box"
+      "item": "create:schematicannon"
     }
   ],
   "result": {
     "fluid": "tconstruct:molten_iron",
-    "amount": 2016
+    "amount": 2304
   },
   "temperature": 800,
   "time": 200

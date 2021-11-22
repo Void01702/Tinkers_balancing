@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "modid": "storagedrawers",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "storagedrawers:obsidian_storage_upgrade"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_obsidian",
+    "amount": 2000
+  },
+  "temperature": 1000,
+  "time": 200
+}

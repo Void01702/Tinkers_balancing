@@ -2,25 +2,28 @@
   "type": "tconstruct:melting",
   "conditions": [
     {
-      "modid": "aquaculture",
+      "modid": "storagedrawers",
       "type": "forge:mod_loaded"
     }
   ],
   "ingredient": [
     {
-      "item": "aquaculture:gold_hook"
+      "item": "storagedrawers:controller_slave"
+    },
+    {
+      "item": "framedcompactdrawers:framed_slave"
     }
   ],
   "result": {
     "fluid": "tconstruct:molten_gold",
-    "amount": 64
+    "amount": 144
   },
   "temperature": 700,
-  "time": 20,
+  "time": 150,
   "byproducts": [
     {
-      "fluid": "tconstruct:molten_iron",
-      "amount": 64
+      "fluid": "tconstruct:molten_quartz",
+      "amount": 288
     }
   ]
 }
