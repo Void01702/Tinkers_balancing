@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "eidolon",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "eidolon:reaper_scythe"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_pewter",
+    "amount": 720
+  },
+  "temperature": 400,
+  "time": 150
+}

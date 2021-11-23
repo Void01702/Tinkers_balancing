@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "eidolon",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "eidolon:gravity_belt"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_pewter",
+    "amount": 576
+  },
+  "temperature": 400,
+  "time": 150,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_ender",
+      "amount": 250
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "modid": "eidolon",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "eidolon:brazier"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_pewter",
+    "amount": 432
+  },
+  "temperature": 400,
+  "time": 80
+}

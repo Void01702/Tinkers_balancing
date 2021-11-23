@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "eidolon",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "eidolon:unholy_effigy"
+    }
+  ],
+  "result": {
+    "fluid": "materialis:molten_arcane_gold",
+    "amount": 288
+  },
+  "temperature": 670,
+  "time": 150,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_pewter",
+      "amount": 288
+    }
+  ]
+}

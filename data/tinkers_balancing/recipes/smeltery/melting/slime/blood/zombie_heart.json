@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "modid": "eidolon",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "eidolon:zombie_heart"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:blood",
+    "amount": 500
+  },
+  "temperature": 36,
+  "time": 40
+  
+}

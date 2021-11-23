@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "eidolon",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "eidolon:mind_shielding_plate"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_lead",
+    "amount": 864
+  },
+  "temperature": 330,
+  "time": 200,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_quartz",
+      "amount": 144
+    }
+  ]
+}

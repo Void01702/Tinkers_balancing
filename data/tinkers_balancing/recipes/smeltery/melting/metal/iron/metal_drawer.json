@@ -16,14 +16,8 @@
   ],
   "result": {
     "fluid": "tconstruct:molten_iron",
-    "amount": 144
+    "amount": 432
   },
   "temperature": 800,
-  "time": 150,
-  "byproducts": [
-    {
-      "fluid": "tconstruct:molten_quartz",
-      "amount": 288
-    }
-  ]
+  "time": 150
 }

@@ -1,0 +1,30 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "eidolon",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "eidolon:glass_hand"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_diamond",
+    "amount": 1296
+  },
+  "temperature": 1450,
+  "time": 200,
+  "byproducts": [
+    {
+      "fluid": "materialis:molten_arcane_gold",
+      "amount": 144
+    },
+    {
+      "fluid": "tconstruct:molten_glass",
+      "amount": 1000
+    }
+  ]
+}

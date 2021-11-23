@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "eidolon",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "eidolon:cleaving_axe"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_pewter",
+    "amount": 1008
+  },
+  "temperature": 400,
+  "time": 170
+}

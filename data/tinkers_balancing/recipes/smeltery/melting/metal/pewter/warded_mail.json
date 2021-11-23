@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "eidolon",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "eidolon:warded_mail"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_pewter",
+    "amount": 1152
+  },
+  "temperature": 400,
+  "time": 200,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_iron",
+      "amount": 1152
+    }
+  ]
+}
