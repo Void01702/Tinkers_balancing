@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "modid": "quark",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "fluid": {
+    "name": "tconstruct:molten_gold",
+    "amount": 48
+  },
+  "result": {
+    "item": "quark:gold_bars"
+
+  },
+  "cooling_time": 65
+}

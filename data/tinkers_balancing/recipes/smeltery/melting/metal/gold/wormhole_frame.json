@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "modid": "occultism",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "occultism:wormhole_frame"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_gold",
+    "amount": 576
+  },
+  "temperature": 700,
+  "time": 100
+}

@@ -8,16 +8,13 @@
   ],
   "ingredient": [
     {
-      "item": "wyrmroost:platinum_helmet"
-    },
-    {
-      "item": "wyrmroost:drake_helmet"
+      "item": "wyrmroost:platinum_dragon_armor"
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_tungsten",
-    "amount": 720
+    "fluid": "tconstruct:molten_platinum",
+    "amount": 3024
   },
-  "temperature": 950,
+  "temperature": 970,
   "time": 200
 }

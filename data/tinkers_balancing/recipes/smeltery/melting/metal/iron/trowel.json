@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "quark",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": {
+    "item": "quark:trowel"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 288
+  },
+  "temperature": 800,
+  "time": 100
+}

@@ -1,0 +1,24 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "netheritehorsearmor",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": {
+    "item": "netheritehorsearmor:netherite_horse_armor"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_netherite",
+    "amount": 144
+  },
+  "temperature": 1250,
+  "time": 150,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_diamond",
+      "amount": 1008
+    }
+  ]
+}

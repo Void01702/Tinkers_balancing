@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "occultism",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": {
+    "item": "occultism:butcher_knife"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 288
+  },
+  "temperature": 800,
+  "time": 100
+}
