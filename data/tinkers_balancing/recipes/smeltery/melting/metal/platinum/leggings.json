@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "wyrmroost",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "wyrmroost:platinum_leggings"
+    },
+    {
+      "item": "wyrmroost:drake_leggings"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_platinum",
+    "amount": 1008
+  },
+  "temperature": 970,
+  "time": 200
+}

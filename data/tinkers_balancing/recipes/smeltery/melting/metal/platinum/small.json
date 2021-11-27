@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "wyrmroost",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "wyrmroost:platinum_shovel"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_platinum",
+    "amount": 144
+  },
+  "temperature": 970,
+  "time": 200
+}

@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "modid": "undergarden",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "fluid": {
+    "name": "materialis:molten_cloggrum",
+    "amount": 48
+  },
+  "result": {
+    "item": "undergarden:cloggrum_bars"
+
+  },
+  "cooling_time": 65
+}

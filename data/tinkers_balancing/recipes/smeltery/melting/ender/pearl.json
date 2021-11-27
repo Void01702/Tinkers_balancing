@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "modid": "endreborn",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "endreborn:purpur_eye"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_ender",
+    "amount": 250
+  },
+  "temperature": 477,
+  "time": 60
+}

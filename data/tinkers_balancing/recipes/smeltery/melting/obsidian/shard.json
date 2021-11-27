@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "modid": "endreborn",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "endreborn:obsidian_shard"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_obsidian",
+    "amount": 1000
+  },
+  "temperature": 1000,
+  "time": 200
+}

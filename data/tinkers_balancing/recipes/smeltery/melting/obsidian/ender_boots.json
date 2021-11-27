@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "endreborn",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "endreborn:ender_boots"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_obsidian",
+    "amount": 2000
+  },
+  "temperature": 1000,
+  "time": 200
+}

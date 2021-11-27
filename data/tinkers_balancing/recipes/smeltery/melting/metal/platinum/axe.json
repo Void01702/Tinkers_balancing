@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "wyrmroost",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "wyrmroost:platinum_axe"
+    },
+    {
+      "item": "wyrmroost:platinum_pickaxe"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_platinum",
+    "amount": 432
+  },
+  "temperature": 970,
+  "time": 200
+}

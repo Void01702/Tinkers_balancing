@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "modid": "endreborn",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "endreborn:tungsten_helmet"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_tungsten",
+    "amount": 720
+  },
+  "temperature": 950,
+  "time": 200
+}

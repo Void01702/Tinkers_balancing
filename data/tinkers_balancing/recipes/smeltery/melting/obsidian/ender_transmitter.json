@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "modid": "endreborn",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "ingredient": [
+    {
+      "item": "endreborn:ender_transmitter"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_obsidian",
+    "amount": 8000
+  },
+  "temperature": 1000,
+  "time": 600,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_ender",
+      "amount": 250
+    }
+  ]
+}
