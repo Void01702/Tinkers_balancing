@@ -1,0 +1,16 @@
+{
+  "type": "tconstruct:material_fluid",
+  "conditions": [
+      {
+        "modid": "create",
+        "type": "forge:mod_loaded"
+      }
+    ],
+  "input": "materialis:rose_quartz",
+  "fluid": {
+    "tag": "tdelight:molten_rosenquartz",
+    "amount": 144
+  },
+  "temperature": 1400,
+  "output": "tdelight:rosenquartz"
+}

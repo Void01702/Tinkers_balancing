@@ -1,0 +1,22 @@
+{
+    "type": "tconstruct:alloy",
+    "inputs": [
+      {
+        "name": "tconstruct:molten_rose_gold",
+        "amount": 144
+      },
+      {
+        "name": "tconstruct:molten_cobalt",
+        "amount": 144
+      },
+      {
+        "tag": "tdelight:molten_hamletite",
+        "amount": 144
+      }
+    ],
+    "result": {
+      "fluid": "tdelight:molten_hamletite",
+      "amount": 288
+    },
+    "temperature": 1280
+  }
