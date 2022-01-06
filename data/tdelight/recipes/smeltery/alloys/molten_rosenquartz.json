@@ -10,12 +10,12 @@
         "amount": 144
       },
       {
-        "tag": "tdelight:molten_hamletite",
+        "tag": "tdelight:molten_gildedfern",
         "amount": 144
       }
     ],
     "result": {
-      "fluid": "tdelight:molten_hamletite",
+      "fluid": "tdelight:molten_rosenquartz",
       "amount": 288
     },
     "temperature": 1280
